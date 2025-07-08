@@ -13,8 +13,8 @@ def get_activity_level(x: DataFrame) -> List[float]:
     ds: Series = x["Physical Activity Level"]
     return ds
 def get_daily_steps(x: DataFrame) -> List[float]:
-    ds: Series = x["Daily Steps"]
-    return ds
+    ds2: Series = x["Daily Steps"]
+    return ds2
 def get_sleep_quality(x: DataFrame) -> List[float]:
     sq: Series = x["Quality of Sleep"]
     return sq
