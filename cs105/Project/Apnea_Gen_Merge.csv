@@ -1,0 +1,7 @@
+Person ID,Gender_x,Age_x,Occupation_x,Sleep Duration_x,Quality of Sleep_x,Physical Activity Level_x,Stress Level_x,BMI Category_x,Blood Pressure_x,Heart Rate_x,Daily Steps_x,Sleep Disorder_x,Systolic Pressure_x,Diastolic Pressure_x,Gender_y,Age_y,Occupation_y,Sleep Duration_y,Quality of Sleep_y,Physical Activity Level_y,Stress Level_y,BMI Category_y,Blood Pressure_y,Heart Rate_y,Daily Steps_y,Sleep Disorder_y,Systolic Pressure_y,Diastolic Pressure_y
+17,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea,132,87,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea,132,87
+31,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea,130,86,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea,130,86
+81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86
+82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86
+105,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,115,75,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,115,75
+146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,135,88,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,135,88
